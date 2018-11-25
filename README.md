@@ -39,7 +39,7 @@ Founding dilemmas:
 
 ![Dilemmas](./assets/dilemmas.png)
 
-## Pre-founding: Career Dilemmas
+## Pre-founding Dilemmas
 
 Top motivations for starting a company:
 
