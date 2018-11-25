@@ -3,7 +3,7 @@
 ### Table of Contents
 
 - [Introduction](#introduction)
-- [Career Dilemmas](#career-dilemmas)
+- [Pre-founding Dilemmas](#pre-founding-dilemmas)
 - [Resources](#resources)
 
 ## Introduction
@@ -38,6 +38,38 @@ Founding dilemmas:
    - Bankruptcy
 
 ![Dilemmas](./assets/dilemmas.png)
+
+## Pre-founding: Career Dilemmas
+
+Top motivations for starting a company:
+
+1. Making a difference in the world.
+2. Financial gain.
+3. Power and influence.
+4. Autonomy.
+5. Recognition.
+
+Best time to start a company:
+
+1. Favorable **Career** Circumstances:
+   - Broad and deep work experience (managerial experience, functional background, industry knowledge, 
+   working in small vs big companies, nontraditional experiences, social capital)
+   - Low opportunity costs
+   - Change in golden handcuffs (the social status of an impressive title or well-known employer, and golden handcuffs, 
+   such as a high salary or a vesting schedule that requires one to keep working in order to earn stock awards) 
+2. Favorable **Personal** Circumstances:
+   - Entrepreneurial motivations
+   - Supportive family situation
+   - Cash cushion
+   - Positive role models (most powerful influences may come from the early messages sent by the words and actions 
+   of older relatives or by the culture in which a person grew up)  
+3. Favorable **Market** Circumstances:
+   - Big opportunity  
+   - Favorable context - are many companies competing for scarce resources?
+   - Customer willingness to pay - how big is the market? Is it growing?
+   - Ticking clock - is the window of opportunity about to close?
+ 
+
 
 ## Resources
 
