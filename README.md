@@ -67,7 +67,11 @@ Best time to start a company:
    - Big opportunity  
    - Favorable context - are many companies competing for scarce resources?
    - Customer willingness to pay - how big is the market? Is it growing?
-   - Ticking clock - is the window of opportunity about to close?
+   - Ticking clock - is the window of opportunity about to close? Ticking-clock industries include 
+      - those in which products and services are quickly derived from and just as quickly outdated by technological or
+      scientific advances, 
+      - those with strong "network effects" - that is, the value of the product increases as more people use it
+      - those with significant economies of scale.
  
 
 
