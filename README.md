@@ -37,6 +37,7 @@ Founding dilemmas:
    - IPO
    - Bankruptcy
 
+![Dilemmas](./assets/dilemmas.png)
 
 ## Resources
 
