@@ -4,6 +4,8 @@
 
 - [Introduction](#introduction)
 - [Pre-founding Dilemmas](#pre-founding-dilemmas)
+- [Founding Team Dilemmas](#founding-team-dilemmas)
+  - [The Solo-versus-Team Dilemma](#the-solo-versus-team-dilemma)
 - [Resources](#resources)
 
 ## Introduction
@@ -72,8 +74,33 @@ Best time to start a company:
       scientific advances, 
       - those with strong "network effects" - that is, the value of the product increases as more people use it
       - those with significant economies of scale.
- 
 
+## Founding Team Dilemmas
+
+### The Solo-versus-Team Dilemma
+
+Only look for cofounders when you are missing important human, social or financial capital at time of founding:
+
+- **Human capital**: Human capital includes the explicit knowledge derived from formal education
+	and the tacit skills derived from prior experience. 
+- **Social capital**: Social capital refers to the benefits derived from one's place in information
+	and communication networks. New startups need to reach out to recruit employees, establish
+	relationships with potential partners, meet potential investors, and gain access to many other
+	outside resources. The startup will benefit from cofounders' contacts and social capital.
+- **Financial capital**: Financial capital refers to the money or other tangible resources that can be
+	used in the founding process.  
+	
+Other options may include:
+- Outsourcing
+- Finding advisors
+- Partnering with complementary companies 
+
+Pros and cons of going solo versus building a founding team:
+
+![Solo vs Team](./assets/solo-vs-team.png)
+
+
+                    
 
 ## Resources
 
