@@ -7,6 +7,7 @@
 - [Founding Team Dilemmas](#founding-team-dilemmas)
   - [The Solo-versus-Team Dilemma](#the-solo-versus-team-dilemma)
   - [Relationship Dilemmas](#relationship-dilemmas)
+  - [Role Dilemmas](#role-dilemmas)
 - [Resources](#resources)
 
 ## Introduction
@@ -149,6 +150,54 @@ write up a memo on the issue at hand and copy the entire executive team.
 This forces others to get involved
 and puts the emphasis on the issue itself rather than on the people advancing the issue. Or, use
 a mutual mentor or impartial advisor to mediate.
+
+### Role Dilemmas
+
+#### Role Assignment
+
+**Overlapping roles**
+  - Pros:
+	  + Offers **flexibility** appropriate to early-stage startups
+	  + Team members can **pitch in wherever needed**
+	  + **Taps collective knowledge** of all team members
+  - Cons:
+      - Diffused responsibility **weaken incentives**
+      - May **increase tension** as founders step on each other's toes
+
+**Division of labor**
+  - Pros:
+     + Enables **assignment of titles, tasks and responsibility**
+     + Provides **better accountability**
+  - Cons:
+     - **Hard to collaborate** on cross-cutting tasks
+  
+#### Decision-Making Approaches
+
+- **Egalitarian** (or consensus) approach - the members of the team make decisions collectively by coming to a 
+complete consensus, and act as peers rather than superiors and subordinates.
+   - **Higher quality** of decisions
+   - **Slower** decision making
+- **Hierarchical** (or autocratic) approach - the team has a formal process for making decisions and a clear hierarchy, 
+with a single person responsible for final decisions.
+   - **Lower quality** of decisions
+   - **Faster** decision making
+- **Composite** - first, the team attempts to reach a full consensus. If consensus is not forthcoming, the CEO
+    and relevant functional VP make their decision, but only after getting input from everybody in a public forum.
+    
+#### Pitfalls
+
+- **Don't crown multiple decision makers just to avoid a confrontation**. While ducking the original conflict may seem 
+to have saved the startup from an early implosion, it actually causes longer-term conflict, endangering the startup's
+future.
+- **Don't underestimate "Title Inertia"** - the CEO has considerable symbolic and substantive power. He has to be chosen
+carefully as most CEOs are reluctant to relinquish their status and power, even when it's obvious they are not the best fit
+for the role.
+- **Don't inflate titles** - the dangers of inertia likewise apply to non-CEO founders who take C-level titles. 
+Once the startup has grown much bigger, many of those founders will not be the best people to fill those senior positions. 
+Yet, demoting or replacing "overtitled" founders can be quite disruptive.
+- **Don't ignore incompatible motivations** - if two founders are strongly control-motivated, both are likely to want 
+to be decision makers. This can result in conflicts. In contract, when both founders are wealth-motivated, or
+one of them is control-motivated and the other is wealth-motivated, the team tend to be more stable.  
        
 
 ## Resources
