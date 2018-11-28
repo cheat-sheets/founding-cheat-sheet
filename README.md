@@ -6,6 +6,7 @@
 - [Pre-founding Dilemmas](#pre-founding-dilemmas)
 - [Founding Team Dilemmas](#founding-team-dilemmas)
   - [The Solo-versus-Team Dilemma](#the-solo-versus-team-dilemma)
+  - [Relationship Dilemmas](#relationship-dilemmas)
 - [Resources](#resources)
 
 ## Introduction
@@ -99,8 +100,56 @@ Pros and cons of going solo versus building a founding team:
 
 ![Solo vs Team](./assets/solo-vs-team.png)
 
+### Relationship Dilemmas
 
-                    
+Founding team **Homogeneity** vs **Diversity**
+
+- Tangible Factors:
+   - **Human capital**: cofounders with similar human capital can communicate more easily but the team may be missing critical skills.
+   - **Social capital**: mutual obligations are more enforceable but the divercity of information received by the team is reduced.
+- Intangible factors:
+   - **Decision-making style (hierarchical vs consensus)**: cofounders with similar styles make decisions more quickly. 
+   But there is no counterbalance.
+   - **Risk tolerance (risk-seeking vs risk-averse)**: cofounders with similar risk tolerances may be more stable partners.
+   But there is no counterbalance.
+   - **Commitment level**: cofounders with similar levels will be more likely to appreciate each other's efforts.
+   But there is no counterbalance.
+   - **Value system**: cofounders with similar values will be more aligned regarding their priorities and preferences.
+   But there is no counterbalance. 
+
+Strangers (no prior relationship) -\> Past co-workers (prior professional relationship) -\> Friends and Family (prior social relationship)
+
+- the likelihood of discussing "Elephants in the room" is the lesser the closer prior relationships between cofounders.
+People tend to worry that raising thorny issues between friends / family would signal distrust of that friend / relative.
+If a business decision makes business sense but might damage the
+social relationship, founders naturally try to avoid making the business decision in the hope that the
+problem will pass.
+- the risk of destroying prior relationship is the greater the closer prior relationships between cofounders.  
+
+Founders who decide to mix business and social relationships despite these dangers should at least
+take proactive steps to protect themselves and the startup:
+- **Compartmentalize relationships**: If the team's size allows, avoid having cofounders report to
+their relative or close friend. Instead, have the cofounder report to another senior executive,
+keeping the private and professional relationships separate.
+- **Envision negative scenarios**: Think about the obstacles — such as family issues, medical
+crises, and legal problems — that could affect a cofounder's ability to work on the startup.
+Resist the natural inclination of many founders to "stay positive", focusing on only desirable
+scenarios.
+- **Create a disaster plan**: Put in writing a plan of action for the worst-case scenarios, such as
+an irresolvable business conflict or a breakup in the social relationship. Also, make it clear
+who has the final say in an impasse. Sign an exit contract that will apply if a worst-case
+scenario develops.
+- **Force sensitive discussions**: Make a long-term policy of being open and honest about every
+personal issue that arises in the process of working together. Increasing the likelihood of
+discussing sensitive issues — by establishing a mechanism for it — can reduce the Playing-with-Fire Gap. 
+Resist the natural inclination to put off or avoid
+discussions of difficult issues in the hope that they will solve themselves.
+- **Involve a referee**: In order to prevent a professional disagreement from getting personal,
+write up a memo on the issue at hand and copy the entire executive team. 
+This forces others to get involved
+and puts the emphasis on the issue itself rather than on the people advancing the issue. Or, use
+a mutual mentor or impartial advisor to mediate.
+       
 
 ## Resources
 
