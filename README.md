@@ -6,8 +6,10 @@
 - [Pre-founding Dilemmas](#pre-founding-dilemmas)
 - [Founding Team Dilemmas](#founding-team-dilemmas)
   - [The Solo-versus-Team Dilemma](#the-solo-versus-team-dilemma)
+  - [The Three Rs](#the-three-rs)
   - [Relationship Dilemmas](#relationship-dilemmas)
   - [Role Dilemmas](#role-dilemmas)
+  - [Reward Dilemmas](#reward-dilemmas)
 - [Resources](#resources)
 
 ## Introduction
@@ -100,6 +102,19 @@ Other options may include:
 Pros and cons of going solo versus building a founding team:
 
 ![Solo vs Team](./assets/solo-vs-team.png)
+
+### The Three Rs
+
+1. **Relationships**
+   - **Friends/family** vs **acquaintances** vs **past coworkers**
+   - **Homogeneous** vs **heterogeneous** teams
+2. **Roles**
+   - **Overlapping roles** vs **division of labor**
+   - **Egalitarian** vs **hierarchical decision making**
+3. **Rewards**
+   - **Equal** vs **unequal equity splits**
+   - **Static** vs **dynamic agreements**  
+
 
 ### Relationship Dilemmas
 
@@ -198,7 +213,44 @@ Yet, demoting or replacing "overtitled" founders can be quite disruptive.
 - **Don't ignore incompatible motivations** - if two founders are strongly control-motivated, both are likely to want 
 to be decision makers. This can result in conflicts. In contract, when both founders are wealth-motivated, or
 one of them is control-motivated and the other is wealth-motivated, the team tend to be more stable.  
-       
+  
+### Reward Dilemmas
+
+Factors for determining equity splits:
+
+1. **Past Contributions**: How much has the founder contributed to building the value of the startup so far?
+   - **Idea Premium**: Founders who contribute the original idea on which the startup is based
+	have made a unique contribution to the venture.
+   - **Capital Contribution**: Founders who have made larger contributions to the startup's seed
+	capital should see a proportionate increase in their equity ownership.
+2. **Opportunity Cost**: What are the founders sacrificing in order to pursue the startup?
+3. **Future Contributions**: Most of the work required for the startup to be successful will come
+	in the future, but these contributions can be hard to anticipate. How much can each founder
+	be expected to contribute to the value of the startup down the road?
+   - **Serial Founders**: Members of the founding team who have previously led a startup to a
+	successful exit can be expected to contribute more human and social capital down the road.
+   - **Level of Commitment**: Founders who are committed full-time to the venture can be
+	expected to contribute more value.
+   - **Titles**: The official positions of the members of the founding team have been shown to
+	influence equity splits, with CEOs receiving a substantial equity premium.
+4. **Founder Motivations and Preferences**
+   - **Wealth Motivations** should lead founders to prioritize larger equity stakes.
+   - **Risk Aversion and Optimism** will affect how much priority a founder places on gaining
+	equity versus cash compensation.
+   - **Tolerance for Conflict** will affect a founder’s willingness to engage in negotiations.
+   - **Prior Relationships** can affect expectations about equity splits.
+   
+Consider **dynamic splits** - adjust the split as circumstances change. If the contribution of one of the founder 
+changes, his equity split should change accordingly.
+
+**Vesting** is the most common type of dynamic equity agreement. 
+- Vesting terms require founders to earn their equity stakes, either over a specified time or when they accomplish 
+specific milestones. 
+- Founders who leave a startup before their equity has fully vested must relinquish the unvested portion to the startup 
+or to their cofounders.  
+
+**The Founder Discount** - founders usually have lower salaries than non-founders with same titles, because founders
+are additionally motivated by their equity share.
 
 ## Resources
 
