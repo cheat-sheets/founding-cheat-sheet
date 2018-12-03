@@ -10,6 +10,9 @@
   - [Relationship Dilemmas](#relationship-dilemmas)
   - [Role Dilemmas](#role-dilemmas)
   - [Reward Dilemmas](#reward-dilemmas)
+- [Beyond the Founding Team](#beyond-the-founding-team)
+  - [Hiring Dilemmas](#hiring-dilemmas)
+  - [Investor Dilemmas](#investor-dilemmas)
 - [Resources](#resources)
 
 ## Introduction
@@ -251,6 +254,29 @@ or to their cofounders.
 
 **The Founder Discount** - founders usually have lower salaries than non-founders with same titles, because founders
 are additionally motivated by their equity share.
+
+### Beyond the Founding Team
+
+#### Hiring Dilemmas
+
+Evolution of hiring decisions as the startup matures:
+
+1. **Startup**
+   - **Relationships**: **Personal networks of core founder** are tapped to find loyal candidates who fit with 
+   the culture of the startup.
+   - **Roles**: **Generalists** who cover multiple areas. **"Flat" structure** that has many C-level employees 
+   with few reports. 
+   - **Rewards**: **Low cash compensation**. **High equity compensation**. **Low gender gap**. **Less vesting**.
+2. **Transition**
+   - **Relationships**: Impersonal searches (**newspaper ads, search firms**). 
+   The **networks of investors** and other participants are leveraged.
+   - **Roles**: **"Players" transition to "Coaches"**. Some early **employees are usually unable to adapt** to the changing 
+   needs of the company. 
+   - **Rewards**: **Moderate cash compensation**. **Lower equity compensation**. **Vesting equity stakes**.
+3. **Mature**
+   - **Relationships**: **Investor networks are tapped**. **Executive search firms are hired**.
+   - **Roles**: The reporting structure is **"pyramidal"**. **"Professional" executives** from large-company backgrounds.
+   - **Rewards**: **High cash compensation**. **Employee stock options**. **The gender gap emerges**.
 
 ## Resources
 
