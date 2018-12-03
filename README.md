@@ -263,9 +263,9 @@ Evolution of hiring decisions as the startup matures:
 
 | Stage of Development | **Relationships** | **Roles** | **Rewards** |
 | --- | --- | --- | --- |
-| **Startup** | **Personal networks of core founder** are tapped to find loyal candidates who fit with the culture of the startup | **Generalists** who cover multiple areas. **"Flat" structure** that has many C-level employees with few reports | **Low cash compensation**. **High equity compensation**. **Low gender gap**. **Less vesting** |
-| **Transition** | Impersonal searches (**newspaper ads, search firms**). The **networks of investors** and other participants are leveraged. | **"Players" transition to "Coaches"**. Some early **employees are usually unable to adapt** to the changing needs of the company | **Moderate cash compensation**. **Lower equity compensation**. **Vesting equity stakes** |
-| **Mature** | **Investor networks are tapped**. **Executive search firms are hired** | The reporting structure is **"pyramidal"**. **"Professional" executives** from large-company backgrounds | **High cash compensation**. **Employee stock options**. **The gender gap emerges** |
+| **Startup** | (1) **Personal networks of core founder** are tapped to find loyal candidates who fit with the culture of the startup | (1) **Generalists** who cover multiple areas. (2) **"Flat" structure** that has many C-level employees with few reports | (1) **Low cash compensation**. (2) **High equity compensation**. (3) **Low gender gap**. (4) **Less vesting** |
+| **Transition** | (1) Impersonal searches (**newspaper ads, search firms**). (2) The **networks of investors** and other participants are leveraged. | (1) **"Players" transition to "Coaches"**. Some early **employees are usually unable to adapt** to the changing needs of the company | (1) **Moderate cash compensation**. (2) **Lower equity compensation**. (3) **Vesting equity stakes** |
+| **Mature** | (1) **Investor networks are tapped**. (2) **Executive search firms are hired** | (1) The reporting structure is **"pyramidal"**. (2) **"Professional" executives** from large-company backgrounds | (1) **High cash compensation**. (2) **Employee stock options**. (3) **The gender gap emerges** |
 
 
 #### Investor Dilemmas
