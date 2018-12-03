@@ -261,23 +261,17 @@ are additionally motivated by their equity share.
 
 Evolution of hiring decisions as the startup matures:
 
-1. **Startup**
-   - **Relationships**: **Personal networks of core founder** are tapped to find loyal candidates who fit with 
-   the culture of the startup.
-   - **Roles**: **Generalists** who cover multiple areas. **"Flat" structure** that has many C-level employees 
-   with few reports. 
-   - **Rewards**: **Low cash compensation**. **High equity compensation**. **Low gender gap**. **Less vesting**.
-2. **Transition**
-   - **Relationships**: Impersonal searches (**newspaper ads, search firms**). 
-   The **networks of investors** and other participants are leveraged.
-   - **Roles**: **"Players" transition to "Coaches"**. Some early **employees are usually unable to adapt** to the changing 
-   needs of the company. 
-   - **Rewards**: **Moderate cash compensation**. **Lower equity compensation**. **Vesting equity stakes**.
-3. **Mature**
-   - **Relationships**: **Investor networks are tapped**. **Executive search firms are hired**.
-   - **Roles**: The reporting structure is **"pyramidal"**. **"Professional" executives** from large-company backgrounds.
-   - **Rewards**: **High cash compensation**. **Employee stock options**. **The gender gap emerges**.
+| Stage of Development | **Relationships** | **Roles** | **Rewards** |
+| --- | --- | --- | --- |
+| **Startup** | **Personal networks of core founder** are tapped to find loyal candidates who fit with the culture of the startup | **Generalists** who cover multiple areas. **"Flat" structure** that has many C-level employees with few reports | **Low cash compensation**. **High equity compensation**. **Low gender gap**. **Less vesting** |
+| **Transition** | Impersonal searches (**newspaper ads, search firms**). The **networks of investors** and other participants are leveraged. | **"Players" transition to "Coaches"**. Some early **employees are usually unable to adapt** to the changing needs of the company | **Moderate cash compensation**. **Lower equity compensation**. **Vesting equity stakes** |
+| **Mature** | **Investor networks are tapped**. **Executive search firms are hired** | The reporting structure is **"pyramidal"**. **"Professional" executives** from large-company backgrounds | **High cash compensation**. **Employee stock options**. **The gender gap emerges** |
 
+
+#### Investor Dilemmas
+
+
+   
 ## Resources
 
 - The Founder's Dilemmas: Anticipating and Avoiding the Pitfalls That Can Sink a Startup, by Noam Wasserman 
