@@ -271,6 +271,14 @@ Evolution of hiring decisions as the startup matures:
 #### Investor Dilemmas
 
 ![Investor Dilemmas](./assets/investor-dilemmas.png)
+
+### SAFE (Simple Agreement for Future Equity)
+
+[Postmoney SAFE templates](https://www.ycombinator.com/documents/)
+
+By "post-money," we mean that safe holder ownership is measured after (post) all the safe money is accounted for - which is its own round now - but still before (pre) the new money in the priced round that converts and dilutes the safes (usually the Series A, but sometimes Series Seed). The post-money safe has what we think is a huge advantage for both founders and investors - the ability to calculate immediately and precisely how much ownership of the company has been sold. It’s critically important for founders to understand how much dilution is caused by each safe they sell, just as it is fair for investors to know how much ownership of the company they have purchased. 
+
+[SAFE calculations example](https://docs.google.com/document/d/1xLGLoinj-FjtdmCo5P4LRn1OD49ix_BSeoDY1iuHUlE/edit)
    
 ## Resources
 
